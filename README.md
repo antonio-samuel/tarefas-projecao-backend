@@ -21,7 +21,7 @@ dependências springboot starterdata.jpa, java web,springboot devtools, mysqlcon
 
 git clone https://github.com/antonio-samuel/tarefas-projecao-backend.git
 
-2. 2. Importe o projeto em sua IDE (IntelliJ, Eclipse, Vscode, entre outros) como projeto Maven.
+ 2. Importe o projeto em sua IDE (IntelliJ, Eclipse, Vscode, entre outros) como projeto Maven.
 
 3. Execute a classe: com.projecao.tarefas.TarefasProjecaoBackendApplication
 
